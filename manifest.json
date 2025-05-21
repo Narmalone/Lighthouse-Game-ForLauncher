@@ -8,8 +8,8 @@
   {
     "RelativePath": "manifest.json",
     "Url": null,
-    "Hash": "6da23d23d30658d4f4e8c054209cd322b46dcce164421e4e50860f24ed56a771",
-    "Size": 176621
+    "Hash": "7bc16448c6998b406aa5c1dfd197f4cb22154d7e9b22d3a4d33c6da0389e3441",
+    "Size": 62871
   },
   {
     "RelativePath": "UnityCrashHandler64.exe",
@@ -1615,7 +1615,7 @@
   },
   {
     "RelativePath": "LightHouse_Data/StreamingAssets/aa/StandaloneWindows64/defaultlocalgroup_assets_all_e92c8ebeb584bf228f69ce067e908b0b.bundle",
-    "Url": "https://github.com/Narmalone/Lighthouse-Game-ForLauncher/releases/download/v1.0.0/defaultlocalgroup_assets_all_e92c8ebeb584bf228f69ce067e908b0b.bundle",
+    "Url": "https://github.com/Narmalone/Lighthouse-Game-ForLauncher/releases/download/V1.0.0/defaultlocalgroup_assets_all_e92c8ebeb584bf228f69ce067e908b0b.bundle",
     "Hash": "e1bd5bc17212d92946aee3b8b533bced4be99c0f8dd07653319bb64df68e3011",
     "Size": 146972066
   },
