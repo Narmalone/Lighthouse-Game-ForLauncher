@@ -6,12 +6,6 @@
     "Size": 672256
   },
   {
-    "RelativePath": "manifest.json",
-    "Url": null,
-    "Hash": "7bc16448c6998b406aa5c1dfd197f4cb22154d7e9b22d3a4d33c6da0389e3441",
-    "Size": 62871
-  },
-  {
     "RelativePath": "UnityCrashHandler64.exe",
     "Url": null,
     "Hash": "02479f8bc865c94871421e62ea00b47d3ce5b4d422d8c3c6868be1202851a20e",
@@ -40,12 +34,6 @@
     "Url": null,
     "Hash": "5dfc320d5ee27190181b1a63e74eb481b07ea727513dbeb38a96db6157969d24",
     "Size": 9525272
-  },
-  {
-    "RelativePath": "LightHouse_Data/.gitattributes",
-    "Url": null,
-    "Hash": "f8a589f0808550fe145bdc48945baf43f168a9dd9aec8239356b743ccf536f76",
-    "Size": 176
   },
   {
     "RelativePath": "LightHouse_Data/app.info",
