@@ -1,1486 +1,1795 @@
 [
   {
     "RelativePath": "LightHouse.exe",
+    "Url": null,
     "Hash": "c9ee6a765901fc5b030023cfd283ec4dd954365a9fef8bfe0945e7addd031838",
     "Size": 672256
   },
   {
+    "RelativePath": "manifest.json",
+    "Url": null,
+    "Hash": "6da23d23d30658d4f4e8c054209cd322b46dcce164421e4e50860f24ed56a771",
+    "Size": 176621
+  },
+  {
     "RelativePath": "UnityCrashHandler64.exe",
+    "Url": null,
     "Hash": "02479f8bc865c94871421e62ea00b47d3ce5b4d422d8c3c6868be1202851a20e",
     "Size": 1582264
   },
   {
     "RelativePath": "UnityPlayer.dll",
+    "Url": null,
     "Hash": "5bc5adacb1fb8969556dd1b838e1d14dd24dab73535c168a303151b03d3bee23",
     "Size": 54543032
   },
   {
     "RelativePath": "WinPixEventRuntime.dll",
+    "Url": null,
     "Hash": "365a63da6a83c91b76bd7f8a9efcc3806b6188a6d29acdbe9d7e43decf3510d8",
     "Size": 55032
   },
   {
     "RelativePath": "D3D12/D3D12Core.dll",
+    "Url": null,
     "Hash": "31f364f2b3aa1753e7ba9ff912d0721c8f424be5fa14503efddafbb30c635d3b",
     "Size": 5908408
   },
   {
     "RelativePath": "D3D12/d3d12SDKLayers.dll",
+    "Url": null,
     "Hash": "5dfc320d5ee27190181b1a63e74eb481b07ea727513dbeb38a96db6157969d24",
     "Size": 9525272
   },
   {
+    "RelativePath": "LightHouse_Data/.gitattributes",
+    "Url": null,
+    "Hash": "f8a589f0808550fe145bdc48945baf43f168a9dd9aec8239356b743ccf536f76",
+    "Size": 176
+  },
+  {
     "RelativePath": "LightHouse_Data/app.info",
+    "Url": null,
     "Hash": "43171f159a72bd587ccbf13d9dca5502fdabe28a4c68980c8bb11bfb8b049d30",
     "Size": 25
   },
   {
     "RelativePath": "LightHouse_Data/boot.config",
+    "Url": null,
     "Hash": "13df0ff01c62d2b585a9334b8a3a27b42130ffa10dbb726ca126e4cd96d77641",
     "Size": 359
   },
   {
     "RelativePath": "LightHouse_Data/globalgamemanagers",
+    "Url": null,
     "Hash": "c1d3e0b871b77730a31c1a4e0a90a095791a75cda1e45e6a9e74b638084fe33e",
     "Size": 208068
   },
   {
     "RelativePath": "LightHouse_Data/globalgamemanagers.assets",
+    "Url": null,
     "Hash": "6f24c8a3a1a5563a5bf6310b9d7f17724c7c07ffa103634e59fc8938a8534be0",
     "Size": 30334592
   },
   {
     "RelativePath": "LightHouse_Data/globalgamemanagers.assets.resS",
+    "Url": null,
     "Hash": "8b8a75c72c772d18006a752625514717706c0aa10c4970f1fd74e588e6bc6081",
     "Size": 19000736
   },
   {
     "RelativePath": "LightHouse_Data/level0",
+    "Url": null,
     "Hash": "7141cde2322580f7c1ed9c1a6fd5b21ba022d0d3831817494abe4359dbda09b1",
     "Size": 2412
   },
   {
     "RelativePath": "LightHouse_Data/level1",
+    "Url": null,
     "Hash": "2582b14c0b6409b95c49d1bfcdf2902ecce66daf25e1a0a25d8fc201e72b3d12",
     "Size": 764
   },
   {
     "RelativePath": "LightHouse_Data/level2",
+    "Url": null,
     "Hash": "5fd1b016c8ff837ff970c087929d496a861506b4a54df47c0e7ad7027d3df655",
     "Size": 716
   },
   {
     "RelativePath": "LightHouse_Data/resources.assets",
+    "Url": null,
     "Hash": "24752ea724cfe75c4ad6ab6ca97930104ef34e474da9bd95be42b08a89e7b4f7",
     "Size": 948760
   },
   {
     "RelativePath": "LightHouse_Data/resources.assets.resS",
+    "Url": null,
     "Hash": "808f02056a04261794cd8ccf0da41839cf75dda62134a27eb762f3ac6a293225",
     "Size": 1405360
   },
   {
     "RelativePath": "LightHouse_Data/RuntimeInitializeOnLoads.json",
+    "Url": null,
     "Hash": "7a9028a98e0ba6b3e6be6c1637d55a07975c55a85133b1c4ef12fe147f9ed6c5",
     "Size": 4202
   },
   {
     "RelativePath": "LightHouse_Data/ScriptingAssemblies.json",
+    "Url": null,
     "Hash": "0451f1130f87f6b28afebf8c9cd7d40b08dd4026b5bd099cfd5e2276f52e1ebd",
     "Size": 3963
   },
   {
     "RelativePath": "LightHouse_Data/sharedassets0.assets",
+    "Url": null,
     "Hash": "4560b5e38e87d9bb05cc42456c43def7dc4cbdf05fc872bf935f5d79f0f679a2",
     "Size": 543488
   },
   {
     "RelativePath": "LightHouse_Data/sharedassets0.assets.resS",
+    "Url": null,
     "Hash": "39bf5f6017379811ca4c587436285e95a6ef56e7ed3a2474f1489b20cf7c6f64",
     "Size": 2065792
   },
   {
     "RelativePath": "LightHouse_Data/sharedassets1.assets",
+    "Url": null,
     "Hash": "9f7effcdd0eabcea3ec704dd1ee0c6b30c6cb44c24effdbb2cc106c9fdf92095",
     "Size": 277
   },
   {
     "RelativePath": "LightHouse_Data/sharedassets2.assets",
+    "Url": null,
     "Hash": "05a9c81b8b654dad7fc265fc696b23f6fe0c814c9854e72da3eb8e31175a7288",
     "Size": 217
   },
   {
     "RelativePath": "LightHouse_Data/Managed/Assembly-CSharp-firstpass.dll",
+    "Url": null,
     "Hash": "1d8af2da17ba0e40486ca8381a6e2fbf0b8da809f88139ca394c2e133f03245e",
     "Size": 6144
   },
   {
     "RelativePath": "LightHouse_Data/Managed/Assembly-CSharp-firstpass.pdb",
+    "Url": null,
     "Hash": "eae21c32a73b88e0e174f1152b67b73bf441f876525daebc249a898d44cf40cc",
     "Size": 17860
   },
   {
     "RelativePath": "LightHouse_Data/Managed/Assembly-CSharp.dll",
+    "Url": null,
     "Hash": "eb27239b331db63bf378f0d224d80a827cfdffc2d969ab598b6340413a62229d",
     "Size": 353792
   },
   {
     "RelativePath": "LightHouse_Data/Managed/Assembly-CSharp.pdb",
+    "Url": null,
     "Hash": "f6aab084c32c43a05a9316777d65166fbd133250ad457edc5ffdfad860e5501c",
     "Size": 148980
   },
   {
     "RelativePath": "LightHouse_Data/Managed/AYellowpaper.SerializedCollections.dll",
+    "Url": null,
     "Hash": "16711e2ab79b1f3ebb5472af3ec18b7b849a80e0581eaef6f792535e9664b077",
     "Size": 10752
   },
   {
     "RelativePath": "LightHouse_Data/Managed/AYellowpaper.SerializedCollections.pdb",
+    "Url": null,
     "Hash": "db798b8f10dfce5d2ef290cf88ab7829b508c1be1d8a44dcc351cae074fa06a6",
     "Size": 18892
   },
   {
     "RelativePath": "LightHouse_Data/Managed/Cinemachine.dll",
+    "Url": null,
     "Hash": "253fa3d29fc3152863d6587a77d9513f573e623cf8cf3d86c9e3bd2c969c75af",
     "Size": 339456
   },
   {
     "RelativePath": "LightHouse_Data/Managed/Cinemachine.pdb",
+    "Url": null,
     "Hash": "07ea258f738c1d3eb9b45e3db0dcb6efcbeb4a4e8750b163d10883a7a0b2828c",
     "Size": 184088
   },
   {
     "RelativePath": "LightHouse_Data/Managed/Mono.Security.dll",
+    "Url": null,
     "Hash": "21b9b6380e5220b8b6e873be96a1d8ea7d8b61d56e05585ebd41960e3916e0bd",
     "Size": 241152
   },
   {
     "RelativePath": "LightHouse_Data/Managed/mscorlib.dll",
+    "Url": null,
     "Hash": "7dd5c412a26dff11d207ad1c72f8dd909c3d6f63840f7a9a225d2dd01bc31141",
     "Size": 4632064
   },
   {
     "RelativePath": "LightHouse_Data/Managed/netstandard.dll",
+    "Url": null,
     "Hash": "6ae62e082dc494a2433984177f60ca4db5fae69b1f360a8b33754172b310b8c5",
     "Size": 90112
   },
   {
     "RelativePath": "LightHouse_Data/Managed/Newtonsoft.Json.dll",
+    "Url": null,
     "Hash": "a56146202232958f46bd6a28b5a7da166aea123ee0d646735a46e5c341dfbf1f",
     "Size": 691712
   },
   {
     "RelativePath": "LightHouse_Data/Managed/Newtonsoft.Json.pdb",
+    "Url": null,
     "Hash": "17cbab4d4207187ed94173c0d59d7a39fabed7c9035b73634c1f02188dd60168",
     "Size": 2174464
   },
   {
     "RelativePath": "LightHouse_Data/Managed/System.ComponentModel.Composition.dll",
+    "Url": null,
     "Hash": "6970482b74bbf4d4b40491f138a6731b14cdf21b0c4f7bdab6babe38e7d8449d",
     "Size": 257024
   },
   {
     "RelativePath": "LightHouse_Data/Managed/System.Configuration.dll",
+    "Url": null,
     "Hash": "e9d4448ab7218ebe23c4a1e4ba84746f233716e58ffbf3f24dba7628e58114f5",
     "Size": 124928
   },
   {
     "RelativePath": "LightHouse_Data/Managed/System.Core.dll",
+    "Url": null,
     "Hash": "32881a6c8eeff5649b0270f93bad74b33abccfd9d31449ddea9d78a8527f2482",
     "Size": 1113088
   },
   {
     "RelativePath": "LightHouse_Data/Managed/System.Data.DataSetExtensions.dll",
+    "Url": null,
     "Hash": "95b679503586ca01bfacf7b8da6d306f82fbd7dafc5243909e2e9e1f28c3c86d",
     "Size": 29696
   },
   {
     "RelativePath": "LightHouse_Data/Managed/System.Data.dll",
+    "Url": null,
     "Hash": "190177c7cfbf5c876a65eec6abbe01caf2629f487e264ddcb17ac21aa9211dbb",
     "Size": 2125312
   },
   {
     "RelativePath": "LightHouse_Data/Managed/System.dll",
+    "Url": null,
     "Hash": "a78032381174964b1406c35026aa5eee553141768fb02429830900fd85df59ef",
     "Size": 2641920
   },
   {
     "RelativePath": "LightHouse_Data/Managed/System.Drawing.dll",
+    "Url": null,
     "Hash": "57720c613092c8608219411db74b5d870acbe265866de5cd8b8f77bfb9a786c5",
     "Size": 489984
   },
   {
     "RelativePath": "LightHouse_Data/Managed/System.EnterpriseServices.dll",
+    "Url": null,
     "Hash": "9d2e9ee168816ab202ed70919fe4cb08849b6a79b110908702581c3897567383",
     "Size": 44544
   },
   {
     "RelativePath": "LightHouse_Data/Managed/System.IO.Compression.dll",
+    "Url": null,
     "Hash": "b3cfb6ca60009ccbe477e2634299e3dbb7f188518da295fb479ac0b6437136b6",
     "Size": 114688
   },
   {
     "RelativePath": "LightHouse_Data/Managed/System.IO.Compression.FileSystem.dll",
+    "Url": null,
     "Hash": "4039efad3d954eb62c45088fff1f36d962f30d009ef0879c257f5a39c096b6bd",
     "Size": 18432
   },
   {
     "RelativePath": "LightHouse_Data/Managed/System.Net.Http.dll",
+    "Url": null,
     "Hash": "16172dcddd4ee8186c62851bfb3ff070bd296b0c7b61f8e986d1ec2b9790b33d",
     "Size": 122880
   },
   {
     "RelativePath": "LightHouse_Data/Managed/System.Numerics.dll",
+    "Url": null,
     "Hash": "e4d818eda468902862a5b8e3fed2d852e77e81d0ce8d48faa06981af421785f4",
     "Size": 119296
   },
   {
     "RelativePath": "LightHouse_Data/Managed/System.Runtime.dll",
+    "Url": null,
     "Hash": "e0a7334b7ba419aaab6bd3bb6992d693e689341a9178172c9bf99c2aa6a085bd",
     "Size": 12288
   },
   {
     "RelativePath": "LightHouse_Data/Managed/System.Runtime.Serialization.dll",
+    "Url": null,
     "Hash": "e50a748eb81de235b40143aac0b51bbef4dc3a780a39e43d839049f28e86cbf1",
     "Size": 934400
   },
   {
     "RelativePath": "LightHouse_Data/Managed/System.Security.dll",
+    "Url": null,
     "Hash": "557b7297a9026579034240d1a5478f25e4b30abd977f9664d17c68a4299c97e1",
     "Size": 320000
   },
   {
     "RelativePath": "LightHouse_Data/Managed/System.ServiceModel.Internals.dll",
+    "Url": null,
     "Hash": "ad36dd4e2ee09f130a27cedd6a461336502775e3bdd239ce38fa47cefeeecd35",
     "Size": 215040
   },
   {
     "RelativePath": "LightHouse_Data/Managed/System.Transactions.dll",
+    "Url": null,
     "Hash": "ef7b63b133bf3f0150e13aa2e1b21628ddbdcdb5a949c11e185743d696fae9ee",
     "Size": 35328
   },
   {
     "RelativePath": "LightHouse_Data/Managed/System.Xml.dll",
+    "Url": null,
     "Hash": "50f029487999d62b805a4042831f6ca6faa62d110d82f2381ba5775e5557c438",
     "Size": 3160064
   },
   {
     "RelativePath": "LightHouse_Data/Managed/System.Xml.Linq.dll",
+    "Url": null,
     "Hash": "14c33ad41219bc7de05d089f75ab5f25a570d899e3db2186e2b860dfb76826ad",
     "Size": 136704
   },
   {
     "RelativePath": "LightHouse_Data/Managed/Unity.Addressables.dll",
+    "Url": null,
     "Hash": "7962163903f25eaa0633ca683599b5b2d31d9b736f582b9dce081a13fdf45938",
     "Size": 125952
   },
   {
     "RelativePath": "LightHouse_Data/Managed/Unity.Addressables.pdb",
+    "Url": null,
     "Hash": "562c81984a74be2d4026646fd8eabc0c6e7a07d0f6215c3e2bd39f33b4fe1d51",
     "Size": 69064
   },
   {
     "RelativePath": "LightHouse_Data/Managed/Unity.AI.Navigation.dll",
+    "Url": null,
     "Hash": "2caebcdf2b3da78edefb9fe686715f81019675124d6b044df99a563516356e47",
     "Size": 26112
   },
   {
     "RelativePath": "LightHouse_Data/Managed/Unity.AI.Navigation.pdb",
+    "Url": null,
     "Hash": "5fc78741125106241228817ee6fb0b1711b1946ffa776c56f56cbb469fb6e921",
     "Size": 25156
   },
   {
     "RelativePath": "LightHouse_Data/Managed/Unity.Burst.dll",
+    "Url": null,
     "Hash": "fc6a247314e03073a0e6c89435b9e891524f3b62196e731b55ff36379a34a6ba",
     "Size": 348160
   },
   {
     "RelativePath": "LightHouse_Data/Managed/Unity.Burst.pdb",
+    "Url": null,
     "Hash": "3fa34e3d7e25025f96f097acce8e59b807c83c915ca92992d7d4d60090c8dc61",
     "Size": 219860
   },
   {
     "RelativePath": "LightHouse_Data/Managed/Unity.Burst.Unsafe.dll",
+    "Url": null,
     "Hash": "9d9c1ff52411decbee5d9f0d1cd61ebeaa222077aa77a52101ea3debafae98e2",
     "Size": 5632
   },
   {
     "RelativePath": "LightHouse_Data/Managed/Unity.Collections.dll",
+    "Url": null,
     "Hash": "d19de22eb11b334f84e8d9b7e8db48781c8c90ba0463d9d79357b8b58002312c",
     "Size": 498176
   },
   {
     "RelativePath": "LightHouse_Data/Managed/Unity.Collections.LowLevel.ILSupport.dll",
+    "Url": null,
     "Hash": "ff50383f807f9692e4913b97e47d86fefcb8faa33d6d48cd3e3fd6fc7ffb448d",
     "Size": 5120
   },
   {
     "RelativePath": "LightHouse_Data/Managed/Unity.Collections.pdb",
+    "Url": null,
     "Hash": "c39ab9c0c50b7076b7068e57ffee02b7615e41855145b77242e0706dd40caf96",
     "Size": 313672
   },
   {
     "RelativePath": "LightHouse_Data/Managed/Unity.InputSystem.dll",
+    "Url": null,
     "Hash": "54c3b93f3d1063f305e3ee025b6ab682f77081a42ab9f1fd1046fbabc5611036",
     "Size": 1261568
   },
   {
     "RelativePath": "LightHouse_Data/Managed/Unity.InputSystem.ForUI.dll",
+    "Url": null,
     "Hash": "13fdbc1eaa3d34d4028817d21ccf69527e1d427d90df7c1d0b2fe1cfb03fb0c9",
     "Size": 17920
   },
   {
     "RelativePath": "LightHouse_Data/Managed/Unity.InputSystem.ForUI.pdb",
+    "Url": null,
     "Hash": "0122754cdc6fa37e547d883f1820d53d0f7199f0c5cf8a11fdbeddae1cabe58c",
     "Size": 20572
   },
   {
     "RelativePath": "LightHouse_Data/Managed/Unity.InputSystem.pdb",
+    "Url": null,
     "Hash": "1e7dcb39ce4204d0f713d2fbb9d62d249744b6427da86b26b598ff9701041356",
     "Size": 573140
   },
   {
     "RelativePath": "LightHouse_Data/Managed/Unity.InternalAPIEngineBridge.013.dll",
+    "Url": null,
     "Hash": "24593415af3df5fcb7ca0b6ac1f2665ad099741c9ef775025f76119c69dfd4dd",
     "Size": 5632
   },
   {
     "RelativePath": "LightHouse_Data/Managed/Unity.InternalAPIEngineBridge.013.pdb",
+    "Url": null,
     "Hash": "6631a8c77b8bba9f76b2966b34f6ef62e5500cef64b82a57fdbd180f70255fea",
     "Size": 16448
   },
   {
     "RelativePath": "LightHouse_Data/Managed/Unity.Localization.dll",
+    "Url": null,
     "Hash": "88ac50cbb1f0e87ca22f8ff276eea9bb4cb934354ca2152df10fb2da2dca2228",
     "Size": 334848
   },
   {
     "RelativePath": "LightHouse_Data/Managed/Unity.Localization.pdb",
+    "Url": null,
     "Hash": "09d83d1e65e128710d808a85ef33a3b49dcfa0859545cabe6dbfa986753aa44e",
     "Size": 194212
   },
   {
     "RelativePath": "LightHouse_Data/Managed/Unity.Mathematics.dll",
+    "Url": null,
     "Hash": "d05191e93ac77a74eb75c1a4ca38c73d884d3da60cef86abb54dd2055ef58a2c",
     "Size": 886784
   },
   {
     "RelativePath": "LightHouse_Data/Managed/Unity.Mathematics.pdb",
+    "Url": null,
     "Hash": "a3532af3940f6e3fc7e3e2c2830d3a83fe8ac73f0bcfdd48789e9c3547c1705f",
     "Size": 515448
   },
   {
     "RelativePath": "LightHouse_Data/Managed/Unity.Multiplayer.Center.Common.dll",
+    "Url": null,
     "Hash": "511acf541bfc64056b49f5a6325818e8cb271c31cf7b6671e27c849e78ddb780",
     "Size": 10752
   },
   {
     "RelativePath": "LightHouse_Data/Managed/Unity.Multiplayer.Center.Common.pdb",
+    "Url": null,
     "Hash": "173e0996fba749dc1f4e7d851e1c9d654d06bef5879a163c5e41a79c1af118ea",
     "Size": 17716
   },
   {
     "RelativePath": "LightHouse_Data/Managed/Unity.Profiling.Core.dll",
+    "Url": null,
     "Hash": "329c9fec04c0d391e77482e7363399753866e50ce8e4475144aad79ba296151b",
     "Size": 12288
   },
   {
     "RelativePath": "LightHouse_Data/Managed/Unity.Profiling.Core.pdb",
+    "Url": null,
     "Hash": "4067e25109cc6d574958e41a6da9ed8c8b8ab55e22704dceaf1e0efa113d4b7c",
     "Size": 19596
   },
   {
     "RelativePath": "LightHouse_Data/Managed/Unity.Rendering.LightTransport.Runtime.dll",
+    "Url": null,
     "Hash": "bdd2ec05338b18f131a804761588eecc5e5bc69b61a946379670a0ee2e0a4551",
     "Size": 312832
   },
   {
     "RelativePath": "LightHouse_Data/Managed/Unity.Rendering.LightTransport.Runtime.pdb",
+    "Url": null,
     "Hash": "599ad5be74b3f95ee6db16824e61a5fb05bde27931283867b12a1ab620c45cc7",
     "Size": 56680
   },
   {
     "RelativePath": "LightHouse_Data/Managed/Unity.RenderPipelines.Core.Runtime.dll",
+    "Url": null,
     "Hash": "f44676114466948b29bed407bcdecf1cb60f829fd3cf70fa39db0deb92347f39",
     "Size": 961536
   },
   {
     "RelativePath": "LightHouse_Data/Managed/Unity.RenderPipelines.Core.Runtime.pdb",
+    "Url": null,
     "Hash": "dbb0cb904742c4d8a45cf69d3cb8f8ef18b0d6b5e6ee3714975e41175a98534b",
     "Size": 433752
   },
   {
     "RelativePath": "LightHouse_Data/Managed/Unity.RenderPipelines.Core.Runtime.Shared.dll",
+    "Url": null,
     "Hash": "773e2771a8191d5d293849f8441ee0090c90e9b5f79996fccaf7254d718b3504",
     "Size": 5632
   },
   {
     "RelativePath": "LightHouse_Data/Managed/Unity.RenderPipelines.Core.Runtime.Shared.pdb",
+    "Url": null,
     "Hash": "728e7e4b2b1fc3ac614f76f207509e963ece09f766cffe9a407e067cb613b747",
     "Size": 16228
   },
   {
     "RelativePath": "LightHouse_Data/Managed/Unity.RenderPipelines.Core.ShaderLibrary.dll",
+    "Url": null,
     "Hash": "3e05a14dfb4d702a9b6c87d6442341fce34b426bd6b3c6f951a147f1c0a26dcc",
     "Size": 4608
   },
   {
     "RelativePath": "LightHouse_Data/Managed/Unity.RenderPipelines.Core.ShaderLibrary.pdb",
+    "Url": null,
     "Hash": "c542066aa439be98253635e2eed3978f16906913ea6ae27c0e6539dfcee6b196",
     "Size": 15968
   },
   {
     "RelativePath": "LightHouse_Data/Managed/Unity.RenderPipelines.GPUDriven.Runtime.dll",
+    "Url": null,
     "Hash": "af6a03c7ca0ec7771fb1506849f971b4c20bc10af7c36c091de718b0fb57a43d",
     "Size": 231936
   },
   {
     "RelativePath": "LightHouse_Data/Managed/Unity.RenderPipelines.GPUDriven.Runtime.pdb",
+    "Url": null,
     "Hash": "ea24090b1cfdc08e8f4fd9b038a37d7e1a22f4eefc7faca9fc54af3e5b640ae5",
     "Size": 119560
   },
   {
     "RelativePath": "LightHouse_Data/Managed/Unity.RenderPipelines.HighDefinition.Config.Runtime.dll",
+    "Url": null,
     "Hash": "ae2813f9072f97e21be1b34697522275f8c01e9ee205379a97a95df9d3970169",
     "Size": 7168
   },
   {
     "RelativePath": "LightHouse_Data/Managed/Unity.RenderPipelines.HighDefinition.Config.Runtime.pdb",
+    "Url": null,
     "Hash": "4d5ec32430183f52d68b1b2a6ed307b4548ca4fffca384fe3a744695af3e982e",
     "Size": 16388
   },
   {
     "RelativePath": "LightHouse_Data/Managed/Unity.RenderPipelines.HighDefinition.Runtime.dll",
+    "Url": null,
     "Hash": "b0d47a4b34aabc6e0fe2233b13326e565fbd2237646958753da555e835f44e46",
     "Size": 2599424
   },
   {
     "RelativePath": "LightHouse_Data/Managed/Unity.RenderPipelines.HighDefinition.Runtime.pdb",
+    "Url": null,
     "Hash": "6736f62615c4a0a7e4379e40f9ac9e13b11681e34568e04adf7c6ecc0d0a899d",
     "Size": 755336
   },
   {
     "RelativePath": "LightHouse_Data/Managed/Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll",
+    "Url": null,
     "Hash": "4b6ae01e125c6deb0dc1f653d8142f7fdf7c5a036ed73f61f58e0be15620feb8",
     "Size": 4608
   },
   {
     "RelativePath": "LightHouse_Data/Managed/Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.pdb",
+    "Url": null,
     "Hash": "95b3b9964658ccf9b3221d0d64d0f0349722fbee9399fe8de5e0c3a538231bbc",
     "Size": 15956
   },
   {
     "RelativePath": "LightHouse_Data/Managed/Unity.ResourceManager.dll",
+    "Url": null,
     "Hash": "7458ab81bbab59d14f6b3981a6ee85a381f2b040527acb5cc54fd6e7be2b2fe5",
     "Size": 152576
   },
   {
     "RelativePath": "LightHouse_Data/Managed/Unity.ResourceManager.pdb",
+    "Url": null,
     "Hash": "c85a3ceab470317b1b518e52ed388ba5acac7212742c7f501a1d632e40e52621",
     "Size": 86824
   },
   {
     "RelativePath": "LightHouse_Data/Managed/Unity.ScriptableBuildPipeline.dll",
+    "Url": null,
     "Hash": "01989dfb520cec65daf23ed1dd9fed659f56645194d089c95f0a1750365620c1",
     "Size": 9216
   },
   {
     "RelativePath": "LightHouse_Data/Managed/Unity.ScriptableBuildPipeline.pdb",
+    "Url": null,
     "Hash": "43431e782df8be052bca6eeb6012f058423a9eba5374b543e533c53572bf22c7",
     "Size": 17984
   },
   {
     "RelativePath": "LightHouse_Data/Managed/Unity.TextMeshPro.dll",
+    "Url": null,
     "Hash": "0894af21b559245c5b617599f36381cfa452a5d61e7ba07e734f36f158788514",
     "Size": 506368
   },
   {
     "RelativePath": "LightHouse_Data/Managed/Unity.TextMeshPro.pdb",
+    "Url": null,
     "Hash": "5e7a46d5024f8d6fade1c0f4b0f232bdbc03a52a8e1a38e323400aad892b1fd7",
     "Size": 255044
   },
   {
     "RelativePath": "LightHouse_Data/Managed/Unity.VisualEffectGraph.Runtime.dll",
+    "Url": null,
     "Hash": "7d5f064da2d083b85489c8551697fc09b55d8f4ec57b340fd4de7468c7ec729f",
     "Size": 82944
   },
   {
     "RelativePath": "LightHouse_Data/Managed/Unity.VisualEffectGraph.Runtime.pdb",
+    "Url": null,
     "Hash": "2f8f34ce26633a2a4c8be1c04dde8fca45b1a357a4c63c3c44f42e3b2e4d5871",
     "Size": 45756
   },
   {
     "RelativePath": "LightHouse_Data/Managed/UnityEngine.AccessibilityModule.dll",
+    "Url": null,
     "Hash": "9c25764ef4aacbde285d758ae3a5b2c9c0754ee2a56ddea3131454bc9f7edd87",
     "Size": 51384
   },
   {
     "RelativePath": "LightHouse_Data/Managed/UnityEngine.AccessibilityModule.pdb",
+    "Url": null,
     "Hash": "187db125f26d276982ee90c501d407c8f6dcc88bd37f1abc35fffd2f5709ad85",
     "Size": 25064
   },
   {
     "RelativePath": "LightHouse_Data/Managed/UnityEngine.AIModule.dll",
+    "Url": null,
     "Hash": "58f2da3636775245956d20216a55ccc65957616891e820560acb4f15313d0f48",
     "Size": 71352
   },
   {
     "RelativePath": "LightHouse_Data/Managed/UnityEngine.AIModule.pdb",
+    "Url": null,
     "Hash": "877b81bacb790e26b925fa65cd991c6e969635d402b773a98ee47ab466af9646",
     "Size": 20400
   },
   {
     "RelativePath": "LightHouse_Data/Managed/UnityEngine.AMDModule.dll",
+    "Url": null,
     "Hash": "887729bfa0f23946edcf24b07eef51a81005c15ff59e618890ea896265519b0a",
     "Size": 20152
   },
   {
     "RelativePath": "LightHouse_Data/Managed/UnityEngine.AMDModule.pdb",
+    "Url": null,
     "Hash": "fccb2543a31a94af28fc33013c8a71a40d235c94647657611ff054f0f52ba7c5",
     "Size": 11776
   },
   {
     "RelativePath": "LightHouse_Data/Managed/UnityEngine.AndroidJNIModule.dll",
+    "Url": null,
     "Hash": "afec22588085e0809b0f03d86bd9dc1f78beecfe4d034bd73ed9cf6aaf5b2569",
     "Size": 114360
   },
   {
     "RelativePath": "LightHouse_Data/Managed/UnityEngine.AndroidJNIModule.pdb",
+    "Url": null,
     "Hash": "4235b047285566c6d7959c92b3fdf6d914ecac85008d1f9c7b293e5a0e50b047",
     "Size": 49684
   },
   {
     "RelativePath": "LightHouse_Data/Managed/UnityEngine.AnimationModule.dll",
+    "Url": null,
     "Hash": "b95b6ce32b23d29d0bcc3f096baca728e39dc55284d68bbcce170f1d41e1bac2",
     "Size": 212152
   },
   {
     "RelativePath": "LightHouse_Data/Managed/UnityEngine.AnimationModule.pdb",
+    "Url": null,
     "Hash": "d060a425a7695a3963e85567c6fbb64d0d4ffd925bd0e69345e73f2ff22eca55",
     "Size": 58468
   },
   {
     "RelativePath": "LightHouse_Data/Managed/UnityEngine.ARModule.dll",
+    "Url": null,
     "Hash": "0c92e975a244c6577345b57bb64c286fdbc67bd45da6d75eb4230513cfcac26d",
     "Size": 20152
   },
   {
     "RelativePath": "LightHouse_Data/Managed/UnityEngine.ARModule.pdb",
+    "Url": null,
     "Hash": "71ce5a8d6e4d0cc7d68bb37eb57595d2fbe1cb6afd2c5f1f9e2c3ea137dde064",
     "Size": 9756
   },
   {
     "RelativePath": "LightHouse_Data/Managed/UnityEngine.AssetBundleModule.dll",
+    "Url": null,
     "Hash": "7ae573f1bc61c08dc4fe964b76e4faae04896dec4132331fbe4bd27c71bff123",
     "Size": 37048
   },
   {
     "RelativePath": "LightHouse_Data/Managed/UnityEngine.AssetBundleModule.pdb",
+    "Url": null,
     "Hash": "fb2701cec027cab0eea394d277cc6a0e1a31a6bcbf98acf1f709cc80c32857ef",
     "Size": 13900
   },
   {
     "RelativePath": "LightHouse_Data/Managed/UnityEngine.AudioModule.dll",
+    "Url": null,
     "Hash": "4ce0d360e401653d72a4dbacae9313705807010bf84ce767eddc3a5770fd5fb4",
     "Size": 101048
   },
   {
     "RelativePath": "LightHouse_Data/Managed/UnityEngine.AudioModule.pdb",
+    "Url": null,
     "Hash": "bcc25413407185f5fe386c83b9a17c30faf224f44458ae185471f284ed0e9343",
     "Size": 23656
   },
   {
     "RelativePath": "LightHouse_Data/Managed/UnityEngine.ClothModule.dll",
+    "Url": null,
     "Hash": "7391aba372547f7677d4bea3566976ef618c6b126f9b8e2e4d58164498adca56",
     "Size": 30904
   },
   {
     "RelativePath": "LightHouse_Data/Managed/UnityEngine.ClothModule.pdb",
+    "Url": null,
     "Hash": "51693f1bd8b9a4d1a6d4ac45771ec63a10619d185dde6e736059b973f378fe23",
     "Size": 10348
   },
   {
     "RelativePath": "LightHouse_Data/Managed/UnityEngine.ClusterInputModule.dll",
+    "Url": null,
     "Hash": "4fcf3a70d59e2d781ceafb1b8eef0f6db7f42b652f7c31640506e0cf5ea5eccc",
     "Size": 22712
   },
   {
     "RelativePath": "LightHouse_Data/Managed/UnityEngine.ClusterInputModule.pdb",
+    "Url": null,
     "Hash": "4314cc5a78c4aa18946c33ade152c755805d39116268f3a151b89161ca860ea0",
     "Size": 9140
   },
   {
     "RelativePath": "LightHouse_Data/Managed/UnityEngine.ClusterRendererModule.dll",
+    "Url": null,
     "Hash": "8df974adeaf9eab767ff63c5001111a0732e2368b36d0f6a0c87e17b540b1886",
     "Size": 21176
   },
   {
     "RelativePath": "LightHouse_Data/Managed/UnityEngine.ClusterRendererModule.pdb",
+    "Url": null,
     "Hash": "e39d56f38019545334e53d24be174575eeaa12cde2142fc036b32d4321becddc",
     "Size": 9748
   },
   {
     "RelativePath": "LightHouse_Data/Managed/UnityEngine.ContentLoadModule.dll",
+    "Url": null,
     "Hash": "6d93ad42946bd040ac82c2d79861e863387a517b504906c0368f0523a2db3266",
     "Size": 27320
   },
   {
     "RelativePath": "LightHouse_Data/Managed/UnityEngine.ContentLoadModule.pdb",
+    "Url": null,
     "Hash": "daa701d1054c7b83830dcbee6edcfca72cf5a7283478330ba9450ebadfda2450",
     "Size": 10920
   },
   {
     "RelativePath": "LightHouse_Data/Managed/UnityEngine.CoreModule.dll",
+    "Url": null,
     "Hash": "393e8ac90b34e03600553ba80af45da9231ab16aa00a6c84d542d673149c33f6",
     "Size": 1794232
   },
   {
     "RelativePath": "LightHouse_Data/Managed/UnityEngine.CoreModule.pdb",
+    "Url": null,
     "Hash": "bf2d6b08d25a42e753da93f73166936d9655748eb9abbd31c510f13c8955284a",
     "Size": 524664
   },
   {
     "RelativePath": "LightHouse_Data/Managed/UnityEngine.CrashReportingModule.dll",
+    "Url": null,
     "Hash": "af057f38e4c63e28e47d97889f9cd4338ccc6bb10849cfd1e0418a696f29fb32",
     "Size": 21176
   },
   {
     "RelativePath": "LightHouse_Data/Managed/UnityEngine.CrashReportingModule.pdb",
+    "Url": null,
     "Hash": "e3a92fe094ccb065eec26d14c2d4d756cde67081d37ddb7e8cadd733a48f4b50",
     "Size": 9692
   },
   {
     "RelativePath": "LightHouse_Data/Managed/UnityEngine.DirectorModule.dll",
+    "Url": null,
     "Hash": "f6a1ba5b7dbecef0e20c933d64606f0e120e05202cae0f3401b3a8659606d672",
     "Size": 36536
   },
   {
     "RelativePath": "LightHouse_Data/Managed/UnityEngine.DirectorModule.pdb",
+    "Url": null,
     "Hash": "74ac15208810feb9435844fa6362887b2d78539bdf96a6bf0caf88a479916450",
     "Size": 13664
   },
   {
     "RelativePath": "LightHouse_Data/Managed/UnityEngine.dll",
+    "Url": null,
     "Hash": "ac3f89454b420645d39fc8e0c845ed86f6be2cb35b4855fe1f70292784681c69",
     "Size": 168632
   },
   {
     "RelativePath": "LightHouse_Data/Managed/UnityEngine.DSPGraphModule.dll",
+    "Url": null,
     "Hash": "5500bed71b3043b2e8ecdff9919194be7851bfeb13f74b6b34e3378290f6d037",
     "Size": 28344
   },
   {
     "RelativePath": "LightHouse_Data/Managed/UnityEngine.DSPGraphModule.pdb",
+    "Url": null,
     "Hash": "3af96ffaef4d6f768f9e81a548da0158294135b606ba04c4c48c08930af51371",
     "Size": 10288
   },
   {
     "RelativePath": "LightHouse_Data/Managed/UnityEngine.GameCenterModule.dll",
+    "Url": null,
     "Hash": "c8492e9fad433f8ae7fc21a4387b307ab345c1a74fdb1fc0dec9802d308f9760",
     "Size": 40632
   },
   {
     "RelativePath": "LightHouse_Data/Managed/UnityEngine.GameCenterModule.pdb",
+    "Url": null,
     "Hash": "9ac0ddafa9770c88a116024d8626e395c945e8c41056e3843cbc32c2a8e8804d",
     "Size": 17232
   },
   {
     "RelativePath": "LightHouse_Data/Managed/UnityEngine.GIModule.dll",
+    "Url": null,
     "Hash": "5d7c5cd1238a94ca7bdb10a28dec6254b0ed836084b2d31723c3e086ca843a87",
     "Size": 19128
   },
   {
     "RelativePath": "LightHouse_Data/Managed/UnityEngine.GIModule.pdb",
+    "Url": null,
     "Hash": "e7f74859c2e0b08d0a5801b635559232fdb82bcb863cab7797144b63f007dea3",
     "Size": 9020
   },
   {
     "RelativePath": "LightHouse_Data/Managed/UnityEngine.GraphicsStateCollectionSerializerModule.dll",
+    "Url": null,
     "Hash": "dad54f1f9f8d05631fca69f9e59ed3ca13c245a83fe6050bf3ce8994e46eb221",
     "Size": 12472
   },
   {
     "RelativePath": "LightHouse_Data/Managed/UnityEngine.GraphicsStateCollectionSerializerModule.pdb",
+    "Url": null,
     "Hash": "a2545eb683976cdcf13dba305c3133746f5657f09e22eb75802ae3ee49a79256",
     "Size": 9048
   },
   {
     "RelativePath": "LightHouse_Data/Managed/UnityEngine.GridModule.dll",
+    "Url": null,
     "Hash": "dafbcc747d7dea35b0b80a3ca2794d2742059606ce629fb1c578ff1d8aa795f9",
     "Size": 24760
   },
   {
     "RelativePath": "LightHouse_Data/Managed/UnityEngine.GridModule.pdb",
+    "Url": null,
     "Hash": "738bfec52ffcd12a6edbfb242530cc6c95665e1b6b0d11071bcb007b1d77d9c9",
     "Size": 9772
   },
   {
     "RelativePath": "LightHouse_Data/Managed/UnityEngine.HierarchyCoreModule.dll",
+    "Url": null,
     "Hash": "e9b456bf1c3d4e259c3a384da60d824c1aba68ac8dcc172c27a21b28a548355b",
     "Size": 89784
   },
   {
     "RelativePath": "LightHouse_Data/Managed/UnityEngine.HierarchyCoreModule.pdb",
+    "Url": null,
     "Hash": "66c48ac68e96a2de9b164a210ef49de6bfad50585060f50e457946fdd6a234c3",
     "Size": 31452
   },
   {
     "RelativePath": "LightHouse_Data/Managed/UnityEngine.HotReloadModule.dll",
+    "Url": null,
     "Hash": "591076013e8eec90ad30e06b404c0987c0284e5b3cea13a2c880328e75da71d9",
     "Size": 19128
   },
   {
     "RelativePath": "LightHouse_Data/Managed/UnityEngine.HotReloadModule.pdb",
+    "Url": null,
     "Hash": "c16bc761bb319e1ebd33bcf4666823a206a9d5f4fe5b37bf6a89b1210a651390",
     "Size": 9020
   },
   {
     "RelativePath": "LightHouse_Data/Managed/UnityEngine.ImageConversionModule.dll",
+    "Url": null,
     "Hash": "7b8df48af1a80d944d8bb14ad1a7e34cf00d9991761295475fcf82eb58af8266",
     "Size": 25784
   },
   {
     "RelativePath": "LightHouse_Data/Managed/UnityEngine.ImageConversionModule.pdb",
+    "Url": null,
     "Hash": "43b6c7f04c1b927a6e61cabd94902c1d9a91a1cbf2369ef1125787275f7713a2",
     "Size": 10360
   },
   {
     "RelativePath": "LightHouse_Data/Managed/UnityEngine.IMGUIModule.dll",
+    "Url": null,
     "Hash": "0641e2d430addc3676cef579c09348ce43ec5063f1f7accd69a59aab5ba4f059",
     "Size": 204472
   },
   {
     "RelativePath": "LightHouse_Data/Managed/UnityEngine.IMGUIModule.pdb",
+    "Url": null,
     "Hash": "c57b5a7a662efd8d33b9fadd2840b299d5097257d43b6a4a9a9fb21bc735a979",
     "Size": 89120
   },
   {
     "RelativePath": "LightHouse_Data/Managed/UnityEngine.InputForUIModule.dll",
+    "Url": null,
     "Hash": "94ddfe810ba3f2a1a269e1ac1d601455c28604bee02f632834c887976b446137",
     "Size": 55480
   },
   {
     "RelativePath": "LightHouse_Data/Managed/UnityEngine.InputForUIModule.pdb",
+    "Url": null,
     "Hash": "37553e80113592c12921add39e773bb1328ada2d49dbd854e2854a67c31ac4fb",
     "Size": 25768
   },
   {
     "RelativePath": "LightHouse_Data/Managed/UnityEngine.InputLegacyModule.dll",
+    "Url": null,
     "Hash": "967c998536d8c06339acbed0b3ecc6f0d061459e937a134122db236bb9aca621",
     "Size": 40120
   },
   {
     "RelativePath": "LightHouse_Data/Managed/UnityEngine.InputLegacyModule.pdb",
+    "Url": null,
     "Hash": "fab95a10fc2a9614ae6aaa3d9149f3139f67a311d0efcf12890cffe55bb32c4c",
     "Size": 15128
   },
   {
     "RelativePath": "LightHouse_Data/Managed/UnityEngine.InputModule.dll",
+    "Url": null,
     "Hash": "29f4ebf0bd6222e513bbe63c37d07b01696c5863b9439460729d19359a241ce6",
     "Size": 22712
   },
   {
     "RelativePath": "LightHouse_Data/Managed/UnityEngine.InputModule.pdb",
+    "Url": null,
     "Hash": "295bf4f4a61303e4bc3f66a365dfb4a1bc658d7732bbc6d5ee682303bf846d8a",
     "Size": 10384
   },
   {
     "RelativePath": "LightHouse_Data/Managed/UnityEngine.JSONSerializeModule.dll",
+    "Url": null,
     "Hash": "b3ca19c36499f3b09ef98e4393dd07ab4aa61f000048e3c3e4d991266a6c39c2",
     "Size": 21688
   },
   {
     "RelativePath": "LightHouse_Data/Managed/UnityEngine.JSONSerializeModule.pdb",
+    "Url": null,
     "Hash": "edead4aac221423f87b9d2d9497d1ffe655e969f1bb953c69008c2ad88441542",
     "Size": 9644
   },
   {
     "RelativePath": "LightHouse_Data/Managed/UnityEngine.LocalizationModule.dll",
+    "Url": null,
     "Hash": "ef124ace2ffb21b06287a0430c83e854973396c768ede08cb068fb261bf3acef",
     "Size": 21688
   },
   {
     "RelativePath": "LightHouse_Data/Managed/UnityEngine.LocalizationModule.pdb",
+    "Url": null,
     "Hash": "479364e0bba4c36cf378c67f71fc5af03cdeda5d17a148324747a4c816370899",
     "Size": 9440
   },
   {
     "RelativePath": "LightHouse_Data/Managed/UnityEngine.MarshallingModule.dll",
+    "Url": null,
     "Hash": "b60add09df64a79fdc739aa3b7d8ad08b32334925fffc2b0a6cded9857d0abc8",
     "Size": 62648
   },
   {
     "RelativePath": "LightHouse_Data/Managed/UnityEngine.MarshallingModule.pdb",
+    "Url": null,
     "Hash": "76ddde7139346540e7299063dcc9c6fb17abaad1451608c6bab2117113499363",
     "Size": 12472
   },
   {
     "RelativePath": "LightHouse_Data/Managed/UnityEngine.MultiplayerModule.dll",
+    "Url": null,
     "Hash": "6fd7f978a2380389b7b1751ca7e3e169ba9729b67b4022aa228178dd00b06cd5",
     "Size": 14008
   },
   {
     "RelativePath": "LightHouse_Data/Managed/UnityEngine.MultiplayerModule.pdb",
+    "Url": null,
     "Hash": "c0559cc4d528db22fb378a331275f878c15301b5b32e30d88bfebceb41cba2b7",
     "Size": 9044
   },
   {
     "RelativePath": "LightHouse_Data/Managed/UnityEngine.NVIDIAModule.dll",
+    "Url": null,
     "Hash": "d2954f26d150e2f794c2c95b32558ba951ae235b4de8e51d26c70c29dadbe3cc",
     "Size": 32952
   },
   {
     "RelativePath": "LightHouse_Data/Managed/UnityEngine.NVIDIAModule.pdb",
+    "Url": null,
     "Hash": "382fd77e9ca5645ab873ebee585eb3f9a59f7a94947c51ec42dff5a727f0175c",
     "Size": 15452
   },
   {
     "RelativePath": "LightHouse_Data/Managed/UnityEngine.ParticleSystemModule.dll",
+    "Url": null,
     "Hash": "a76c7f705d7ccaa4e650236fcb67a287e04f88fc81f83fa1d39223c7fbd0b37b",
     "Size": 165048
   },
   {
     "RelativePath": "LightHouse_Data/Managed/UnityEngine.ParticleSystemModule.pdb",
+    "Url": null,
     "Hash": "19cc258838338b9b29916b61cf9ef7c6e4f42353f2a290f414987d785c182d24",
     "Size": 39972
   },
   {
     "RelativePath": "LightHouse_Data/Managed/UnityEngine.pdb",
+    "Url": null,
     "Hash": "3c5427e6a9a7bf082b9734edeeb08aebbd2cb6e54659477e9c35acb545d07f5d",
     "Size": 12120
   },
   {
     "RelativePath": "LightHouse_Data/Managed/UnityEngine.PerformanceReportingModule.dll",
+    "Url": null,
     "Hash": "18212d087aafe9f8e929ac3fdacf2b4ba60eccbdbeaeaacdc7106102227c1c1e",
     "Size": 19640
   },
   {
     "RelativePath": "LightHouse_Data/Managed/UnityEngine.PerformanceReportingModule.pdb",
+    "Url": null,
     "Hash": "96aad7f28d770149c51cc97151d1b79b1f7911f14e45ea17d057c4a509a7402a",
     "Size": 9224
   },
   {
     "RelativePath": "LightHouse_Data/Managed/UnityEngine.Physics2DModule.dll",
+    "Url": null,
     "Hash": "9c8101a6e18b6314239dd16738067658897fae3ae6e795ae97e7311d5c59f6f2",
     "Size": 198328
   },
   {
     "RelativePath": "LightHouse_Data/Managed/UnityEngine.Physics2DModule.pdb",
+    "Url": null,
     "Hash": "6d3b9736cbdcd8de9d0507a96b3d788136b4f7223e0e65d2803c1c0236ecfc3a",
     "Size": 48116
   },
   {
     "RelativePath": "LightHouse_Data/Managed/UnityEngine.PhysicsModule.dll",
+    "Url": null,
     "Hash": "c95099a5c28686c80c35cc7f3d928d4526be42f1c58656c6a9816293054a83dc",
     "Size": 179896
   },
   {
     "RelativePath": "LightHouse_Data/Managed/UnityEngine.PhysicsModule.pdb",
+    "Url": null,
     "Hash": "3d89e0c1a2301d96bc3904fd1b6834ac428906e62cd5be335bd1ef893a8794e7",
     "Size": 46996
   },
   {
     "RelativePath": "LightHouse_Data/Managed/UnityEngine.PropertiesModule.dll",
+    "Url": null,
     "Hash": "996f3783b9f10f2c7a1589a6a596ce66d1aba9bb2184d2281ed3b7ba9a21108a",
     "Size": 147640
   },
   {
     "RelativePath": "LightHouse_Data/Managed/UnityEngine.PropertiesModule.pdb",
+    "Url": null,
     "Hash": "6117b104adc30856d4ebbda42fe1efe086cde0c081a98c8d17867f3e4de98965",
     "Size": 58784
   },
   {
     "RelativePath": "LightHouse_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll",
+    "Url": null,
     "Hash": "86c643b075fd884a094cda7facf28aa8aca3163be2350758b45d5e6ce6348b4a",
     "Size": 19128
   },
   {
     "RelativePath": "LightHouse_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.pdb",
+    "Url": null,
     "Hash": "252b7c7b988d6a96bf7b583df562530040cddd9770798e2f95eb09968244fc7c",
     "Size": 9080
   },
   {
     "RelativePath": "LightHouse_Data/Managed/UnityEngine.ScreenCaptureModule.dll",
+    "Url": null,
     "Hash": "6022ce8660765c0ebc85a2517ffd29f9d7c5beb0565b4b2a5202c1593a4faac5",
     "Size": 20664
   },
   {
     "RelativePath": "LightHouse_Data/Managed/UnityEngine.ScreenCaptureModule.pdb",
+    "Url": null,
     "Hash": "087b178e7ca5c25a9749676f664e6d18425508d52c3ca15ae02ccc843dd8404a",
     "Size": 9624
   },
   {
     "RelativePath": "LightHouse_Data/Managed/UnityEngine.ShaderVariantAnalyticsModule.dll",
+    "Url": null,
     "Hash": "d0117fc879961ea865dc611f3bb1c6115524ac97b9f0689f9e662a59bb2d6ec0",
     "Size": 19128
   },
   {
     "RelativePath": "LightHouse_Data/Managed/UnityEngine.ShaderVariantAnalyticsModule.pdb",
+    "Url": null,
     "Hash": "7b4387a0f58fc876c892319d027fb9e618ef443887afe25f45a407d614047af2",
     "Size": 9144
   },
   {
     "RelativePath": "LightHouse_Data/Managed/UnityEngine.SharedInternalsModule.dll",
+    "Url": null,
     "Hash": "2f4cef3c95f05b81fc985db3de86cf1c6f4fb10f4ded132d597cc674d65e78bb",
     "Size": 30392
   },
   {
     "RelativePath": "LightHouse_Data/Managed/UnityEngine.SharedInternalsModule.pdb",
+    "Url": null,
     "Hash": "cff3f0d095af7084cc22998b505cb2d7cb0f464484fafddfdca38772e941cbed",
     "Size": 13444
   },
   {
     "RelativePath": "LightHouse_Data/Managed/UnityEngine.SpriteMaskModule.dll",
+    "Url": null,
     "Hash": "2770de6186512169f5104994af47817206359ddf00ae92b7bf5602889956d09a",
     "Size": 23224
   },
   {
     "RelativePath": "LightHouse_Data/Managed/UnityEngine.SpriteMaskModule.pdb",
+    "Url": null,
     "Hash": "e4bfefc75a0747d436894d6ae356c12d38ac13ce6c0184208619f73453105d6c",
     "Size": 9352
   },
   {
     "RelativePath": "LightHouse_Data/Managed/UnityEngine.SpriteShapeModule.dll",
+    "Url": null,
     "Hash": "6de0ee0e71fb88d29a296bfa7fc6ef20e21f46af045d988ff1c2557b1286533a",
     "Size": 26296
   },
   {
     "RelativePath": "LightHouse_Data/Managed/UnityEngine.SpriteShapeModule.pdb",
+    "Url": null,
     "Hash": "fbe48e06fcd8b9ef832556cb399cb20473d8e48a36b0422403c938e83ef5029d",
     "Size": 10580
   },
   {
     "RelativePath": "LightHouse_Data/Managed/UnityEngine.StreamingModule.dll",
+    "Url": null,
     "Hash": "47f5d5262a76aad501121627ad08834722aeb4272c8967a7636f9fd204a95216",
     "Size": 20664
   },
   {
     "RelativePath": "LightHouse_Data/Managed/UnityEngine.StreamingModule.pdb",
+    "Url": null,
     "Hash": "baab09e0508266f39200065cbc9c43f6340e37d1671405fea7daff01c6939d39",
     "Size": 9096
   },
   {
     "RelativePath": "LightHouse_Data/Managed/UnityEngine.SubstanceModule.dll",
+    "Url": null,
     "Hash": "962078a1433a6926c012fdaf50c8e06448975187e220cc9be00fb355f0be52ab",
     "Size": 23736
   },
   {
     "RelativePath": "LightHouse_Data/Managed/UnityEngine.SubstanceModule.pdb",
+    "Url": null,
     "Hash": "6ef649e2caae9c9b1123ddb7c9a6fb804c3a516c8abafe8f729267292d5867cb",
     "Size": 11224
   },
   {
     "RelativePath": "LightHouse_Data/Managed/UnityEngine.SubsystemsModule.dll",
+    "Url": null,
     "Hash": "479a95e1f0a5fac36c7f0f61cde8d3f347859948a3ee68e755262f2c98f33d58",
     "Size": 36536
   },
   {
     "RelativePath": "LightHouse_Data/Managed/UnityEngine.SubsystemsModule.pdb",
+    "Url": null,
     "Hash": "d9ef80fb63ce1e8bc52c3c81543d34269a042b4ed78e24957351e26f0e5d51af",
     "Size": 15764
   },
   {
     "RelativePath": "LightHouse_Data/Managed/UnityEngine.TerrainModule.dll",
+    "Url": null,
     "Hash": "9ae9b492fedf4f0a925447982a0e84421b28f2c413412b41bccca814bdc509c4",
     "Size": 127672
   },
   {
     "RelativePath": "LightHouse_Data/Managed/UnityEngine.TerrainModule.pdb",
+    "Url": null,
     "Hash": "95c05b05aff2e61ea80af3c36c8b54c375ca50a22a18f9bb1ca2f47cf58949c3",
     "Size": 33672
   },
   {
     "RelativePath": "LightHouse_Data/Managed/UnityEngine.TerrainPhysicsModule.dll",
+    "Url": null,
     "Hash": "ee2212c259ce05870fbb876b6390c428e3528e8ca8ec4bb75ce5e50944f432a6",
     "Size": 20152
   },
   {
     "RelativePath": "LightHouse_Data/Managed/UnityEngine.TerrainPhysicsModule.pdb",
+    "Url": null,
     "Hash": "5df6fb518e08c410404443b1c548b11c1d2a21ac9b1d1c72167658e6021d762a",
     "Size": 9484
   },
   {
     "RelativePath": "LightHouse_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll",
+    "Url": null,
     "Hash": "3015ce0481b72e7cd546ec51bf89ddbbf1bf6e78a10b0619711c71e8a7576575",
     "Size": 82616
   },
   {
     "RelativePath": "LightHouse_Data/Managed/UnityEngine.TextCoreFontEngineModule.pdb",
+    "Url": null,
     "Hash": "c2e7ffeed9f70ac46ebcb9f3750d35bc4bf9fdc7a14711f65056ce1d15d3c6d7",
     "Size": 28064
   },
   {
     "RelativePath": "LightHouse_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll",
+    "Url": null,
     "Hash": "2ea54ed38c7c016ab10677811d3929557aba9d9b818a152c1bd9a520ab3ec871",
     "Size": 320184
   },
   {
     "RelativePath": "LightHouse_Data/Managed/UnityEngine.TextCoreTextEngineModule.pdb",
+    "Url": null,
     "Hash": "fd424b2cbb8aa072be14f7052ebe003e8edc5170bb38424210b5cb0722217b6a",
     "Size": 139684
   },
   {
     "RelativePath": "LightHouse_Data/Managed/UnityEngine.TextRenderingModule.dll",
+    "Url": null,
     "Hash": "6e796842c57511eadfb3c4b0e0d69cd45fae1069e121bf8979a30e3a9e5bd5e6",
     "Size": 43704
   },
   {
     "RelativePath": "LightHouse_Data/Managed/UnityEngine.TextRenderingModule.pdb",
+    "Url": null,
     "Hash": "971cf06bd456754bb3023a362878c37633871f65445116f9073a640e53da8741",
     "Size": 15156
   },
   {
     "RelativePath": "LightHouse_Data/Managed/UnityEngine.TilemapModule.dll",
+    "Url": null,
     "Hash": "136b0cc0cf5afeb47f0613603d8487fdf2a27f64e30e8b6b07a5cdf348643c93",
     "Size": 52408
   },
   {
     "RelativePath": "LightHouse_Data/Managed/UnityEngine.TilemapModule.pdb",
+    "Url": null,
     "Hash": "ee25aea0cd9e940b835ed7bb024b7e4ff4a0f5746fb38498768cdf33130d5fb6",
     "Size": 18760
   },
   {
     "RelativePath": "LightHouse_Data/Managed/UnityEngine.TLSModule.dll",
+    "Url": null,
     "Hash": "18dea8836e0f7f587dc730d56d37c4a26f1cede23531117759d49bd8886b606e",
     "Size": 25784
   },
   {
     "RelativePath": "LightHouse_Data/Managed/UnityEngine.TLSModule.pdb",
+    "Url": null,
     "Hash": "ded7db37348bcba16bcb23383d2323091ae37f30075495e640b0664517c6a737",
     "Size": 9040
   },
   {
     "RelativePath": "LightHouse_Data/Managed/UnityEngine.UI.dll",
+    "Url": null,
     "Hash": "43db9facc5658b287ac80ebe87fc0f1ad65b30c1b544bad2e3d7051a681818fc",
     "Size": 297472
   },
   {
     "RelativePath": "LightHouse_Data/Managed/UnityEngine.UI.pdb",
+    "Url": null,
     "Hash": "ba3ecae69051f63adfb9c9135170e7119e91b02ab223945146aaeeac01940f8d",
     "Size": 180888
   },
   {
     "RelativePath": "LightHouse_Data/Managed/UnityEngine.UIElementsModule.dll",
+    "Url": null,
     "Hash": "8337930c6d1e89a4865b2fe90d5e1463b03ab0d3cb2355e294c5dcb2b5bcab40",
     "Size": 2055864
   },
   {
     "RelativePath": "LightHouse_Data/Managed/UnityEngine.UIElementsModule.pdb",
+    "Url": null,
     "Hash": "9aec6a293eb144cefa842ec37a35aedd0fce29ec10d304a8c8eebd67779c0f44",
     "Size": 911484
   },
   {
     "RelativePath": "LightHouse_Data/Managed/UnityEngine.UIModule.dll",
+    "Url": null,
     "Hash": "0f16cec2016d841d6e97d97d5444186d3535fa4565c61ca7d21abca6e65f8f8d",
     "Size": 43192
   },
   {
     "RelativePath": "LightHouse_Data/Managed/UnityEngine.UIModule.pdb",
+    "Url": null,
     "Hash": "d8a405da82b80ef0bb4902ce908199be64877131b7c91e4f50b9e93fcc9b4125",
     "Size": 13572
   },
   {
     "RelativePath": "LightHouse_Data/Managed/UnityEngine.UmbraModule.dll",
+    "Url": null,
     "Hash": "aa942b9865e773cde342e519ed5c120009cfc96670fc46c0e8ccf80cab0481fe",
     "Size": 19128
   },
   {
     "RelativePath": "LightHouse_Data/Managed/UnityEngine.UmbraModule.pdb",
+    "Url": null,
     "Hash": "895fd11eb031f6adebcec7c2a662dca60cc457e697031003d07b4faa37661e56",
     "Size": 9020
   },
   {
     "RelativePath": "LightHouse_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll",
+    "Url": null,
     "Hash": "04bdcfe3d977a531e373200bbfc77ef4e878c07b1b2c67fafd9dc87c8482eff7",
     "Size": 29880
   },
   {
     "RelativePath": "LightHouse_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.pdb",
+    "Url": null,
     "Hash": "fc57682eaaa730763a1b19f82eb97b7499489d1ba882c05054d0f870a4d5ea85",
     "Size": 13340
   },
   {
     "RelativePath": "LightHouse_Data/Managed/UnityEngine.UnityAnalyticsModule.dll",
+    "Url": null,
     "Hash": "64f684f4fe3b090a3473a863e03f92c7b0be3d3a695e6b6ca1863f4b9c4155d5",
     "Size": 55480
   },
   {
     "RelativePath": "LightHouse_Data/Managed/UnityEngine.UnityAnalyticsModule.pdb",
+    "Url": null,
     "Hash": "f3dd2d2159ecb59493bda5a257661536777b293e60f4e3d9e9e5995610659095",
     "Size": 17744
   },
   {
     "RelativePath": "LightHouse_Data/Managed/UnityEngine.UnityConnectModule.dll",
+    "Url": null,
     "Hash": "e39742f058f540ab9da82c23053d995bd690842ffe72cdb12792002f06d92756",
     "Size": 22200
   },
   {
     "RelativePath": "LightHouse_Data/Managed/UnityEngine.UnityConnectModule.pdb",
+    "Url": null,
     "Hash": "a1b6885a415b3d1be7b5fb91b5fca55ef01aad304e37c6ebc44d0bda9dfcf754",
     "Size": 9616
   },
   {
     "RelativePath": "LightHouse_Data/Managed/UnityEngine.UnityCurlModule.dll",
+    "Url": null,
     "Hash": "6c4d499e8d4820fe83c90d8000d8ae0755a2dddb165d9326d3eb6d98870b24f5",
     "Size": 20664
   },
   {
     "RelativePath": "LightHouse_Data/Managed/UnityEngine.UnityCurlModule.pdb",
+    "Url": null,
     "Hash": "27566cb7f7b7e347d6b2b1f79a420dfd6ca80b2b576cdb5d14f5cadd5dd0c1da",
     "Size": 9412
   },
   {
     "RelativePath": "LightHouse_Data/Managed/UnityEngine.UnityTestProtocolModule.dll",
+    "Url": null,
     "Hash": "6183f244535d4a1dbb062d14df4f1af18cb1dbcd7086e0d410d8216bd1cda93c",
     "Size": 19128
   },
   {
     "RelativePath": "LightHouse_Data/Managed/UnityEngine.UnityTestProtocolModule.pdb",
+    "Url": null,
     "Hash": "9e8d79564d221d3a855cc69d1a351b97e60d984979596b7b1bca484353d01940",
     "Size": 9080
   },
   {
     "RelativePath": "LightHouse_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll",
+    "Url": null,
     "Hash": "4b92688a948b3c2f7b18aa2aa9e5824b613eefdf73d3ebba59dae64d2836e883",
     "Size": 23224
   },
   {
     "RelativePath": "LightHouse_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.pdb",
+    "Url": null,
     "Hash": "a37d4cc803c1a2ce5d4625e23ffa82ac61dfcec7c5c081195dd1b080aa43965e",
     "Size": 10592
   },
   {
     "RelativePath": "LightHouse_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll",
+    "Url": null,
     "Hash": "f8bed770bbc2f7bf460d68e12b024c322a785a7ff928165839d3eca53b8b0d16",
     "Size": 22712
   },
   {
     "RelativePath": "LightHouse_Data/Managed/UnityEngine.UnityWebRequestAudioModule.pdb",
+    "Url": null,
     "Hash": "7596f619ea5b7f189495f506ad270d9563e014b9bf09ae8496e863472b0ca6b0",
     "Size": 10392
   },
   {
     "RelativePath": "LightHouse_Data/Managed/UnityEngine.UnityWebRequestModule.dll",
+    "Url": null,
     "Hash": "f8a43f86db3878bab38ae3bf7f0bfd86d3dc24d673d7fc50698d0f3c9d276b69",
     "Size": 63672
   },
   {
     "RelativePath": "LightHouse_Data/Managed/UnityEngine.UnityWebRequestModule.pdb",
+    "Url": null,
     "Hash": "eacb86b4cce6ea022b69f86cd0a77c97fbc8359344e5ab32b91b4b5100e4e8ea",
     "Size": 28084
   },
   {
     "RelativePath": "LightHouse_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll",
+    "Url": null,
     "Hash": "e11bc1320303ce7ae829be48c100ce8bdd674ad5f03d3289019202bb2b100327",
     "Size": 22200
   },
   {
     "RelativePath": "LightHouse_Data/Managed/UnityEngine.UnityWebRequestTextureModule.pdb",
+    "Url": null,
     "Hash": "7ef12198f293a757035f73262dbb32286d40f9fe9ea81408f8797084ff9ae187",
     "Size": 10560
   },
   {
     "RelativePath": "LightHouse_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll",
+    "Url": null,
     "Hash": "a8820cd5c1501584ad66af3482fcf52ad85f51ce02ee99d1d68f8c6ada7c40ac",
     "Size": 30904
   },
   {
     "RelativePath": "LightHouse_Data/Managed/UnityEngine.UnityWebRequestWWWModule.pdb",
+    "Url": null,
     "Hash": "30f78a18bb1c6fa26eee7fea8d08fac29b830ef30a9558d0f4b671944bcaeb05",
     "Size": 13460
   },
   {
     "RelativePath": "LightHouse_Data/Managed/UnityEngine.VehiclesModule.dll",
+    "Url": null,
     "Hash": "f9b63c6f41a4b8e249f9ef674608ffea409edb53082768b7ecfc2002bf91fab9",
     "Size": 25784
   },
   {
     "RelativePath": "LightHouse_Data/Managed/UnityEngine.VehiclesModule.pdb",
+    "Url": null,
     "Hash": "e5d91c06df921944cf0c21d9d54ed7354fa473f659e5d9f201978211119bd19a",
     "Size": 10260
   },
   {
     "RelativePath": "LightHouse_Data/Managed/UnityEngine.VFXModule.dll",
+    "Url": null,
     "Hash": "8ad849c50892cc373baa63b3900127aae15944039af03c44807621ea8f64bcee",
     "Size": 72376
   },
   {
     "RelativePath": "LightHouse_Data/Managed/UnityEngine.VFXModule.pdb",
+    "Url": null,
     "Hash": "a0ee27ba876bcb4e821ecb3148a42242169ef79affec09da44d09a2e57586f44",
     "Size": 18492
   },
   {
     "RelativePath": "LightHouse_Data/Managed/UnityEngine.VideoModule.dll",
+    "Url": null,
     "Hash": "ab7a880fa78767da9d0bee6d1745752bf52fa7eaac8a5bd513005ee48b2868fc",
     "Size": 53432
   },
   {
     "RelativePath": "LightHouse_Data/Managed/UnityEngine.VideoModule.pdb",
+    "Url": null,
     "Hash": "4c45c0f3606e789892efad390a4efc5c9634f438e540aee7569348b13ce264df",
     "Size": 13936
   },
   {
     "RelativePath": "LightHouse_Data/Managed/UnityEngine.VirtualTexturingModule.dll",
+    "Url": null,
     "Hash": "27985c856c02276de779c127169dcb198a498d2c507dbb9383fbb3276cd2e54f",
     "Size": 37560
   },
   {
     "RelativePath": "LightHouse_Data/Managed/UnityEngine.VirtualTexturingModule.pdb",
+    "Url": null,
     "Hash": "2423334af43c13e1d956dffa62588ed6802d9d0d79698d8c8713545abdf45581",
     "Size": 13268
   },
   {
     "RelativePath": "LightHouse_Data/Managed/UnityEngine.VRModule.dll",
+    "Url": null,
     "Hash": "e3feae43d9ad1f948c2921bfeac26580e1d1054de7bd73422b64a9e80dd6e249",
     "Size": 26296
   },
   {
     "RelativePath": "LightHouse_Data/Managed/UnityEngine.VRModule.pdb",
+    "Url": null,
     "Hash": "ab606de53f0f9c87651fee5f31f82ac10e91619ffeb326e121c147c02ae68355",
     "Size": 10144
   },
   {
     "RelativePath": "LightHouse_Data/Managed/UnityEngine.WindModule.dll",
+    "Url": null,
     "Hash": "1fc9369095da7540bbc43f457aa40d95456363bdfbc8ca62e642e877792ea433",
     "Size": 21176
   },
   {
     "RelativePath": "LightHouse_Data/Managed/UnityEngine.WindModule.pdb",
+    "Url": null,
     "Hash": "546399ba39465fc0c84cff762834324f6f01b102ca6550e4cb12337133cd05f1",
     "Size": 9156
   },
   {
     "RelativePath": "LightHouse_Data/Managed/UnityEngine.XRModule.dll",
+    "Url": null,
     "Hash": "85ef33b6cff0af2d9cf3293912504f94544e9de2d3dd165c19290aa244693623",
     "Size": 82104
   },
   {
     "RelativePath": "LightHouse_Data/Managed/UnityEngine.XRModule.pdb",
+    "Url": null,
     "Hash": "1dadf304520030e84d493c3b8c49d4f512500c6aa27cd6348736dd9905f8b73e",
     "Size": 24000
   },
   {
     "RelativePath": "LightHouse_Data/Resources/unity default resources",
+    "Url": null,
     "Hash": "f5e29909672ea6bf47805d6fbaf716751090886f7cb39515f5d4b4eaa02ca6a9",
     "Size": 5858500
   },
   {
     "RelativePath": "LightHouse_Data/Resources/unity_builtin_extra",
+    "Url": null,
     "Hash": "5cec2058fdad31fb4a0010109b1af4b27acbac37bdc4eae6ed4377568983d421",
     "Size": 370052
   },
   {
     "RelativePath": "MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll",
+    "Url": null,
     "Hash": "d8ba247edc588399a699605f3c94bdfe9c87acbfd5533e4cc1a9233bfd2db59c",
     "Size": 7827640
   },
   {
     "RelativePath": "MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll",
+    "Url": null,
     "Hash": "7f15fa4698f8c35478b68e2ae9abed403fc9797c567a768d59ec92507d1dbd05",
     "Size": 609464
   },
   {
     "RelativePath": "LightHouse_Data/Plugins/x86_64/lib_burst_generated.dll",
+    "Url": null,
     "Hash": "7b110d25b9f029e75b486326fc1abf809ec17fffdf893101b2267fb5a1c22756",
     "Size": 652800
   },
   {
     "RelativePath": "LightHouse_Data/Plugins/x86_64/lib_burst_generated.pdb",
+    "Url": null,
     "Hash": "5137579e1a1e56539831541cbd621ee9d4c5399f30bd9f38edb5f267a0e469e2",
     "Size": 3018752
   },
   {
     "RelativePath": "LightHouse_Data/StreamingAssets/aa/catalog.bin",
+    "Url": null,
     "Hash": "728a84901a0fb0440fa40d1b8fc1257e6e17c6c8b0d2764ede0835bfc3e50cf8",
     "Size": 25079
   },
   {
     "RelativePath": "LightHouse_Data/StreamingAssets/aa/catalog.hash",
+    "Url": null,
     "Hash": "f2a08010b497d072e18ab04a4576bea01d3b565523c2208f84e7ce22c4805b9a",
     "Size": 32
   },
   {
     "RelativePath": "LightHouse_Data/StreamingAssets/aa/settings.json",
+    "Url": null,
     "Hash": "4ccde0d19face29e126b8146f7cbe26b7dc99eff957fbd1025a9c6aa26ff89a2",
     "Size": 864
   },
   {
     "RelativePath": "MonoBleedingEdge/etc/mono/browscap.ini",
+    "Url": null,
     "Hash": "4ddd50f31fb968f30bedefc253a46dc3f2890192d05cdaa9e0a64a056eee807e",
     "Size": 311984
   },
   {
     "RelativePath": "MonoBleedingEdge/etc/mono/config",
+    "Url": null,
     "Hash": "5776169973a26a387b8b3e5c0f2301a7ab9a6dd7c7d3efa22a96abc47fbf8662",
     "Size": 3815
   },
   {
     "RelativePath": "LightHouse_BurstDebugInformation_DoNotShip/Data/Plugins/x86_64/lib_burst_generated.txt",
+    "Url": null,
     "Hash": "27dc7caaae30af8a3a88bc4bb9b959368b6a692e2faed6a93ea0d53ba236f25d",
     "Size": 155249
   },
   {
     "RelativePath": "LightHouse_Data/StreamingAssets/aa/AddressablesLink/link.xml",
+    "Url": null,
     "Hash": "e6c16d3aa33353b04faae3140f80cac6800249f644e81b46e7c7bc5f3c4d3edc",
     "Size": 25014
   },
   {
     "RelativePath": "LightHouse_Data/StreamingAssets/aa/StandaloneWindows64/9b79ba8d9962ecf02d04cf84e0a0ebf1_monoscripts_f4bb0b459b08679375ed105aebbe86b3.bundle",
+    "Url": null,
     "Hash": "86c685674b827cedc449f5ace35ee264ea941a9239b57431d7601c8dcf5479a8",
     "Size": 7617
   },
   {
     "RelativePath": "LightHouse_Data/StreamingAssets/aa/StandaloneWindows64/9b79ba8d9962ecf02d04cf84e0a0ebf1_unitybuiltinassets_70e2cfd4475a67bb99f51602961327c1.bundle",
+    "Url": null,
     "Hash": "d8d8ae1eb5101e6c120786f43ac43905ab641a9dac1299752f11def0a13c67d4",
     "Size": 152099
   },
   {
     "RelativePath": "LightHouse_Data/StreamingAssets/aa/StandaloneWindows64/defaultlocalgroup_assets_all_e92c8ebeb584bf228f69ce067e908b0b.bundle",
+    "Url": "https://github.com/Narmalone/Lighthouse-Game-ForLauncher/releases/download/v1.0.0/defaultlocalgroup_assets_all_e92c8ebeb584bf228f69ce067e908b0b.bundle",
     "Hash": "e1bd5bc17212d92946aee3b8b533bced4be99c0f8dd07653319bb64df68e3011",
     "Size": 146972066
   },
   {
     "RelativePath": "LightHouse_Data/StreamingAssets/aa/StandaloneWindows64/defaultlocalgroup_scenes_all_8a6579fdbd53d945fe5b1a16bf3fb768.bundle",
+    "Url": null,
     "Hash": "03e1495040f43e792f5c071d269092e09707006db1a935c3e7bd96d1e9188d15",
     "Size": 4931
   },
   {
     "RelativePath": "LightHouse_Data/StreamingAssets/aa/StandaloneWindows64/localization-asset-tables-english(en)_assets_all.bundle",
+    "Url": null,
     "Hash": "e91c3d4aa389ee4077ed0acd5ceca1a0e817c3813937bab31194b2dd52628364",
     "Size": 2235
   },
   {
     "RelativePath": "LightHouse_Data/StreamingAssets/aa/StandaloneWindows64/localization-asset-tables-french(fr)_assets_all.bundle",
+    "Url": null,
     "Hash": "23efccdb0da42f79c4807eb722abf6f5f55dce914dd84440fda3fc88c44269cb",
     "Size": 2235
   },
   {
     "RelativePath": "LightHouse_Data/StreamingAssets/aa/StandaloneWindows64/localization-asset-tables-german(de)_assets_all.bundle",
+    "Url": null,
     "Hash": "5de52c58ede06bc5cd6bee8047ce3db97164064568e0a86c80f4005a8f3a286e",
     "Size": 2148
   },
   {
     "RelativePath": "LightHouse_Data/StreamingAssets/aa/StandaloneWindows64/localization-asset-tables-spanish(es)_assets_all.bundle",
+    "Url": null,
     "Hash": "10963f67ef6c06f5b3985615386c56a4266d4749d33337cb7ee7b0ab6207429d",
     "Size": 2122
   },
   {
     "RelativePath": "LightHouse_Data/StreamingAssets/aa/StandaloneWindows64/localization-assets-english(en)_assets_all.bundle",
+    "Url": null,
     "Hash": "563faffb702c8a7a405a2da16b76964ab624228812ef0551a85070a0a01eed27",
     "Size": 29622
   },
   {
     "RelativePath": "LightHouse_Data/StreamingAssets/aa/StandaloneWindows64/localization-assets-french(fr)_assets_all.bundle",
+    "Url": null,
     "Hash": "7c5b6b40a606d0d85b6db2e76430ff9f1562ac59f53c0936ca5412dd8e546ab8",
     "Size": 26572
   },
   {
     "RelativePath": "LightHouse_Data/StreamingAssets/aa/StandaloneWindows64/localization-assets-shared_assets_all.bundle",
+    "Url": null,
     "Hash": "e0d681da49290a25a3e52efabf5058723cdc88adcb10bf49846ba1236864af9c",
     "Size": 64808
   },
   {
     "RelativePath": "LightHouse_Data/StreamingAssets/aa/StandaloneWindows64/localization-locales_assets_all.bundle",
+    "Url": null,
     "Hash": "9664daee0123c0a57a7121726b659352e64e90f1796dfd754a528924a849b560",
     "Size": 2176
   },
   {
     "RelativePath": "LightHouse_Data/StreamingAssets/aa/StandaloneWindows64/localization-string-tables-english(en)_assets_all.bundle",
+    "Url": null,
     "Hash": "d6b26692b9dba05628b0aaee3690a837e532b901ba3f4bb24413aa48dee7f0f3",
     "Size": 4556
   },
   {
     "RelativePath": "LightHouse_Data/StreamingAssets/aa/StandaloneWindows64/localization-string-tables-french(fr)_assets_all.bundle",
+    "Url": null,
     "Hash": "4cef2fb2831187c9d320aa63a63c572889c896eb15c5a0cf4c5c22fdddfad04d",
     "Size": 4696
   },
   {
     "RelativePath": "LightHouse_Data/StreamingAssets/aa/StandaloneWindows64/localization-string-tables-german(de)_assets_all.bundle",
+    "Url": null,
     "Hash": "8e580fd4b27b8724e56af22822ca402ca43ab7da51be5fe2149d58f9d2d0d7e0",
     "Size": 2806
   },
   {
     "RelativePath": "LightHouse_Data/StreamingAssets/aa/StandaloneWindows64/localization-string-tables-spanish(es)_assets_all.bundle",
+    "Url": null,
     "Hash": "1882648747a413e432f4ac126c1454c4e6192336867a723ad934a0d6209ab384",
     "Size": 2801
   },
   {
     "RelativePath": "MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx",
+    "Url": null,
     "Hash": "751861040b69ea63a3827507b7c8da9c7f549dc181c1c8af4b7ca78cc97d710a",
     "Size": 60575
   },
   {
     "RelativePath": "MonoBleedingEdge/etc/mono/2.0/machine.config",
+    "Url": null,
     "Hash": "e91782a27fa39fc6c1d6ee8b08529f5d35052310d0006034b878eb04b8f2af30",
     "Size": 29066
   },
   {
     "RelativePath": "MonoBleedingEdge/etc/mono/2.0/settings.map",
+    "Url": null,
     "Hash": "49c6160f9d54af4270a3b4e997fc4a8301f79b9e2070118fa46ddbcbbc44f9a2",
     "Size": 2622
   },
   {
     "RelativePath": "MonoBleedingEdge/etc/mono/2.0/web.config",
+    "Url": null,
     "Hash": "cf2b54339e069b9e42f7d6795eecbf562c50c1011f4ca8f65f578fe52d97ff92",
     "Size": 11635
   },
   {
     "RelativePath": "MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx",
+    "Url": null,
     "Hash": "751861040b69ea63a3827507b7c8da9c7f549dc181c1c8af4b7ca78cc97d710a",
     "Size": 60575
   },
   {
     "RelativePath": "MonoBleedingEdge/etc/mono/4.0/machine.config",
+    "Url": null,
     "Hash": "e60aec2c5115d65b3acb3c55ea21576dbd770f579166c017125571e46ae560ed",
     "Size": 33598
   },
   {
     "RelativePath": "MonoBleedingEdge/etc/mono/4.0/settings.map",
+    "Url": null,
     "Hash": "ce1db1ad8a9512073164e3eccdc193f7eda036e1a9733caec4635de21b2865c8",
     "Size": 2622
   },
   {
     "RelativePath": "MonoBleedingEdge/etc/mono/4.0/web.config",
+    "Url": null,
     "Hash": "e38bb8cc68fe5b4edecdfd288d094b9e8ced7629039b2a347682aba0d8bd7492",
     "Size": 18802
   },
   {
     "RelativePath": "MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx",
+    "Url": null,
     "Hash": "751861040b69ea63a3827507b7c8da9c7f549dc181c1c8af4b7ca78cc97d710a",
     "Size": 60575
   },
   {
     "RelativePath": "MonoBleedingEdge/etc/mono/4.5/machine.config",
+    "Url": null,
     "Hash": "ee950004b576fb28dc85f4b0435ed04bf96612de2e8b53be84d07afe85a0de6c",
     "Size": 34056
   },
   {
     "RelativePath": "MonoBleedingEdge/etc/mono/4.5/settings.map",
+    "Url": null,
     "Hash": "ce1db1ad8a9512073164e3eccdc193f7eda036e1a9733caec4635de21b2865c8",
     "Size": 2622
   },
   {
     "RelativePath": "MonoBleedingEdge/etc/mono/4.5/web.config",
+    "Url": null,
     "Hash": "c4cbddd4fd9347b58cc5a72b36dc4ba1ad2bb699e65869d05cd3fb9865f0d824",
     "Size": 18811
   },
   {
     "RelativePath": "MonoBleedingEdge/etc/mono/mconfig/config.xml",
+    "Url": null,
     "Hash": "0c56e34c69124510fa8c19e7b4c2ca6c1c4ff460ae19f798dd0ca035809e396d",
     "Size": 25817
   },
   {
     "RelativePath": "MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser",
+    "Url": null,
     "Hash": "8a1082057ac5681dcd4e9c227ed7fb8eb42ac1618963b5de3b65739dd77e2741",
     "Size": 1605
   },
   {
     "RelativePath": "MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser",
+    "Url": null,
     "Hash": "8a1082057ac5681dcd4e9c227ed7fb8eb42ac1618963b5de3b65739dd77e2741",
     "Size": 1605
   },
   {
     "RelativePath": "MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser",
+    "Url": null,
     "Hash": "8a1082057ac5681dcd4e9c227ed7fb8eb42ac1618963b5de3b65739dd77e2741",
     "Size": 1605
   }
